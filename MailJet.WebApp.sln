@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.33502.349
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailJet.WebApp", "MailJet.WebApp\MailJet.WebApp.csproj", "{8F37E13D-13B5-41A6-BD38-BEA0E4FDF425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailJet.Core", "MailJet.Core\MailJet.Core.csproj", "{E7687FEB-50AE-47B8-BEBC-CBA400A2ECB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F37E13D-13B5-41A6-BD38-BEA0E4FDF425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F37E13D-13B5-41A6-BD38-BEA0E4FDF425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F37E13D-13B5-41A6-BD38-BEA0E4FDF425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F37E13D-13B5-41A6-BD38-BEA0E4FDF425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7687FEB-50AE-47B8-BEBC-CBA400A2ECB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7687FEB-50AE-47B8-BEBC-CBA400A2ECB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7687FEB-50AE-47B8-BEBC-CBA400A2ECB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7687FEB-50AE-47B8-BEBC-CBA400A2ECB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E76097A6-F454-4CDE-8444-1FF9B6F25DAB}
+	EndGlobalSection
+EndGlobal
